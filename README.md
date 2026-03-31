@@ -18,7 +18,7 @@ To develop strong SQL querying skills by solving real-world analytical problems 
 - Conditional queries for targeted insights
 
 ## Deliverables
-- Collection of 40+ SQL queries covering basic to advanced scenarios
+- Collection of 30+ SQL queries covering basic to advanced scenarios
 - PowerPoint presentation showcasing queries and their outputs
 
 ## Skills Demonstrated
